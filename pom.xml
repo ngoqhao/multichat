@@ -39,7 +39,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.company.test.ChatServer</mainClass>
+                            <mainClass>com.mycompany.test.ChatServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
